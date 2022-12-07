@@ -28,5 +28,9 @@ public class Main {
         Day6 day6 = new Day6();
         day6.partOne();
         day6.partTwo();
+
+        Day7 day7 = new Day7();
+        day7.partOne();
+        day7.partTwo();
     }
 }
