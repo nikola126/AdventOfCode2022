@@ -32,5 +32,9 @@ public class Main {
         Day7 day7 = new Day7();
         day7.partOne();
         day7.partTwo();
+
+        Day8 day8 = new Day8();
+        day8.partOne();
+        day8.partTwo();
     }
 }
