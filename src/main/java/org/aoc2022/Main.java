@@ -36,5 +36,8 @@ public class Main {
         Day8 day8 = new Day8();
         day8.partOne();
         day8.partTwo();
+
+        Day9 day9 = new Day9();
+        day9.partOne();
     }
 }
