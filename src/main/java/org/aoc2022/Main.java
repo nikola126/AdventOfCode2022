@@ -47,5 +47,6 @@ public class Main {
 
         Day11 day11 = new Day11();
         day11.partOne();
+        day11.partTwo();
     }
 }
