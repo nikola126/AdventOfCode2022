@@ -44,5 +44,8 @@ public class Main {
         Day10 day10 = new Day10();
         day10.partOne();
         day10.partTwo();
+
+        Day11 day11 = new Day11();
+        day11.partOne();
     }
 }
